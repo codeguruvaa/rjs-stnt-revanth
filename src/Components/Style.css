@@ -1,0 +1,42 @@
+.header{
+    width: 980px;
+    height: 65px;
+    background-color: gray;
+}
+.slider{
+    width: 980px;
+    height: 255px;
+    background-color: orange;
+}
+
+.bOne{
+    width: 326px;
+    height: 250px;
+    background-color: darkcyan;
+
+    float: left;
+}
+.bTwo{
+    width: 326px;
+    height: 250px;
+    background-color: gold;
+
+    float: left;
+}
+.bThree{
+    width: 326px;
+    height: 250px;
+    background-color: brown;
+
+    float: left;
+}
+.pars{
+    width: 980px;
+    padding: 20px;
+}
+
+.footer{
+    width: 980px;
+    height: 150px;
+    background-color: cadetblue;
+}
